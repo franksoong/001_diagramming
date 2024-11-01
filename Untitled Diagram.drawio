@@ -137,7 +137,7 @@
           <mxGeometry x="880" y="760" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ivdqDtTuWTQu9ybZsBom-55" value="&lt;b&gt;OV App&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="770" width="140" height="30" as="geometry" />
+          <mxGeometry x="870" y="764" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ivdqDtTuWTQu9ybZsBom-68" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -153,9 +153,6 @@
         </mxCell>
         <mxCell id="ivdqDtTuWTQu9ybZsBom-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="268" y="638" width="90" height="242" as="geometry" />
-        </mxCell>
-        <mxCell id="ivdqDtTuWTQu9ybZsBom-74" value="&lt;p style=&quot;language:zh-CN;line-height:normal;margin-top:0pt;margin-bottom:0pt;&#xa;margin-left:0in;margin-right:0in;text-indent:0in;text-align:left;direction:&#xa;ltr;unicode-bidi:embed;mso-vertical-align-alt:auto;mso-line-break-override:&#xa;none;word-break:normal;punctuation-wrap:hanging&quot;&gt;&lt;span style=&quot;font-size:18.0pt;&#xa;font-family:Arial;mso-ascii-font-family:Arial;mso-fareast-font-family:+mn-ea;&#xa;mso-bidi-font-family:+mn-cs;mso-ascii-theme-font:minor-latin;mso-fareast-theme-font:&#xa;minor-fareast;mso-bidi-theme-font:minor-bidi;color:black;mso-color-index:1;&#xa;mso-font-kerning:12.0pt;language:en-US;font-weight:normal;mso-style-textfill-type:&#xa;solid;mso-style-textfill-fill-themecolor:text1;mso-style-textfill-fill-color:&#xa;black;mso-style-textfill-fill-alpha:100.0%&quot;&gt;/acc/orchestrate&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="910" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ivdqDtTuWTQu9ybZsBom-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.002;entryY=0.329;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -183,6 +180,9 @@
         </mxCell>
         <mxCell id="ivdqDtTuWTQu9ybZsBom-71" value="&lt;b&gt;XR ACC&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="630" width="100" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="ivdqDtTuWTQu9ybZsBom-86" value="&lt;b&gt;omniverse-webrtc-streaming&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="800" width="420" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
